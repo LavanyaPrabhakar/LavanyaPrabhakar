@@ -28,5 +28,5 @@ I am a Trainee Software QA Engineer with over 3+ years of experience in the tech
 - Repository: Git
 - Microsoft 365: Word, Excel, PowerPoint & Outlook
 
+[![LavanyaPrabhakar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LavanyaPrabhakar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![LavanyaPrabhakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LavanyaPrabhakar)](https://github.com/anuraghazra/github-readme-stats)
