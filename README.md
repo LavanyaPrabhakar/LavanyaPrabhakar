@@ -4,7 +4,7 @@
 
 :email: lavanya.prabhakar@gmail.com
 
-:phone: 07502173416
+:phone: +44 (0)7502173416
 
 :round_pushpin: Bracknell, UK
 
