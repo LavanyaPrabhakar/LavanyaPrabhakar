@@ -25,7 +25,7 @@
 - Testing Tools: Postman API Testing, Selenium with Java, JMeter, Bugzilla, JIRA.
 - Programming Languages: Java
 - Testing Framework: TestNG
-- IDE’s: Eclipse
+- IDE’s: Eclipse, VS Code
 - SQL Editors: MySQL
 - Repository: Git
 - Microsoft 365: Word, Excel, PowerPoint & Outlook
