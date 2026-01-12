@@ -19,6 +19,7 @@
 - SQL Editors: MySQL
 - Repository: Git
 - Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams, SharePoint
-- Dynamics 365: CRM Dynamics, Power Automate
+- Dynamics 365: CRM Dynamics
+- Power Platform: Power Automate
 
 
