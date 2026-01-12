@@ -3,10 +3,10 @@
 # Lavanya Prabhakar :woman_technologist:
 
 ## About Me
-- I am a Trainee Software QA Engineer with over 4+ years of experience in the technology industry, well-versed in writing and executing testcases, identifying and reporting defects, and working with cross-functional teams to deliver high quality products.
-- I have a Bachelor of Engineering degree in Computer Science from Bharathidasan University, India
-- I am a ISTQB® Certified Tester.
-- I have also completed various training courses on Selenium WebDriver with Java, and Performance test using JMeter.
+- I am an ISTQB® Certified Software QA Engineer and IT System Support Analyst with 5+ years of experience in application support and software quality assurance and I hold a Bachelor of Engineering in Computer Science & Engineering. 
+- I have hands-on experience in Level 2 production application support, system and regression testing, User Acceptance Testing (UAT), and incident management within Agile environments.
+- I am experienced in supporting live business systems, troubleshooting issues, analysing root causes, and collaborating closely with developers and business stakeholders to deliver reliable, high-quality solutions.
+- I have completed training in Selenium WebDriver with Java, Performance Testing using JMeter, and Power Automate, and I continuously enhance my skills to improve testing efficiency, automation, and system reliability.
 
 ---
 
@@ -18,6 +18,7 @@
 - IDE’s: Eclipse, VS Code
 - SQL Editors: MySQL
 - Repository: Git
-- Microsoft 365: Word, Excel, PowerPoint & Outlook
+- Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams, SharePoint
+- Dynamics 365: CRM Dynamics, Power Automate
 
 
